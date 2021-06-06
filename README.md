@@ -29,7 +29,7 @@ Main commands of this language
  ---
  * Creating tasks list:
  - [x] First step:   Use \- [x]
- - [] Second step:   Use \- []
+ -[] Second step:   Use \- []
  
  
  
