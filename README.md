@@ -5,7 +5,7 @@ Main commands of this language
 ### LET'S GET STARTED
 
 * __Bold Letter__           // Use either \_\_Word__ or \*\*Word**
-* _Italic Letter_           // Use either \__Word__\ or \**Word**\
+* _Italic Letter_           // Use either \_Word_ or \*Word*
 * ~~Strikethrough Letter~~  //  Use \~~Word~~\
 
 You can also mix up there characteristics whatever you want
