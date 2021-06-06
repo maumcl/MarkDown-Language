@@ -13,7 +13,7 @@ Main commands of this language
  ( Use \--- to separate it in areas as showed above)
 
 
-# Use \# to insert the First Title
+# Use \# in the beginning of the sentence to insert the First Title
 
 ## Use \## to insert the Second Title
 
