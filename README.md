@@ -7,8 +7,11 @@ Main commands of this language
 * __Bold Letter__           // Use either \_\_Word__ or \*\*Word**
 * _Italic Letter_           // Use either \_Word_ or \*Word*
 * ~~Strikethrough Letter~~  //  Use \~~Word~~
+* `Shaded Word`     // Use \`Word`
 
 You can also mix up these characteristics whatever you want
+ ---   
+ ( Use \--- to separate in areas as showed above)
 
 # Use \# to insert the First Title
 
@@ -16,16 +19,14 @@ You can also mix up these characteristics whatever you want
 
 ### Use \### to insert the Third Title
 
-* `Shaded Word`     // Use \`Word`
-
+ ---
  ```
  Your
  text   (Use ``` Text in Paragraph....```)
  here
  ```
- 
-  ---   
- ( Use \--- to separate in areas as showed above)
+  --
+
 
  -- 
 ( \-- Divider)
