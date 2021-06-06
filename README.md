@@ -50,7 +50,7 @@ Num | Name | Grade
  ---
 Inserting Links:
 
-[Meu GitHub]() -- \[Name Chosen](url link)
+[Meu GitHub]() -- \[Your text here](url link)
 
  ---
 :CodeEmoji: to insert an emoji
