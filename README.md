@@ -2,14 +2,12 @@
 
 Main commands of this language
 
-### LET'S GET STARTED
-
 * __Bold Letter__           // Use either \_\_Word__ or \*\*Word**
 * _Italic Letter_           // Use either \_Word_ or \*Word*
 * ~~Strikethrough Letter~~  //  Use \~~Word~~
 * `Shaded Word`     // Use \`Word`
 
-You can also mix up these characteristics whatever you want
+ You can also mix up these characteristics whatever you want
  ---   
  ( Use \--- to separate in areas as showed above)
 
