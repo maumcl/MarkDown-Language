@@ -23,7 +23,7 @@ You can also mix up these characteristics whatever you want
 
  ```
  Your
- text   (Use \_``` Text....```_\)
+ text   (Use ``` Text....```)
  here
  ```
  
