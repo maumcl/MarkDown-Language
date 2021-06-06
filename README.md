@@ -35,9 +35,9 @@ Main commands of this language
   ---
  Inserting Quotes:
  >>First
- >>and
- >>second
- >>examples
+ and
+ second
+ examples
  
   
  ---
