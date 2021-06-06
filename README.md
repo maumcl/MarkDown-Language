@@ -55,3 +55,8 @@ Inserting Links:
  ---
 :CodeEmoji: to insert an emoji
 Check it out this interesting [repository](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion) full of emojis :smile:
+
+---
+Inserting symbols in the message
+
+You can simply use \ in front of your code when typing 
