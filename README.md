@@ -4,16 +4,29 @@ Main commands of this language
 
 ### LET'S GET STARTED
 
-* __Bold Letter__  // Use either \__Word__/ or \**Word**\
-* `git add`      // Add or refresh changes to insert in the timelime
-* ` git branch -m master main` // Rename the local _master_ to _main_
-* `git commit -m "add description"`   // Add a step in the timeline
-* `git remote add origin www.github.com/yourgithub/repository` // Add a step in the timeline
-* `git log`      // Visualize those steps in the timelime
-* `git status`   // Inform the current status of the projects changes
-* `git show`     // Show a specific step in the history
-* `git branch`   // Manage new timelines(branches)
-* `git checkout` // Manipulate the timelines (with this command I can restore a deleted archive)
+* __Bold Letter__           // Use either \___Word___\ or \***Word***\
+* _Italic Letter_           // Use either \__Word__\ or \**Word**\
+* ~~Strikethrough Letter~~  //  Use \~~Word~~\
+
+You can also mix up there characteristics whatever you want
+
+* Use \_#_\ to insert the First Title
+* Use \_##_\ to insert the Second Title
+* Use \_###_\ to insert the Third Title
+---   ( \_---_\ Separate in areas)
+
+-- ( \_--_\ Divider)
+
+* `Shaded Word`     // Use \_`Word`_\
+
+ ```
+ Your
+ text   (Use \_``` Text....```_\)
+ here
+ ```
+ 
+* Put : to inser an emoji
+* Check it out this interesting [repository](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion) full of emojis put :smile:
 * `git merge`    // Merge the timelines
 * `git push -u origin master`     // Send the local changes to the remote repository
 * `git clone`    // Clone a project / repository
