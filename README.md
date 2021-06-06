@@ -35,7 +35,7 @@ Main commands of this language
   ---
 Create Spreadsheet:
 
-Num | Name | Grade 
+Num|Name|Grade 
 ---|---|--- 
 1|Mauricio|8,5 
 2|Joseph|9,0 
