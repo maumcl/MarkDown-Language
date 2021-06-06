@@ -33,11 +33,11 @@ Main commands of this language
  
   
   ---
- Creating demarcated list:
- *List 1
- *List 2
-  *Test
- *List 3
+ Inserting Quotes:
+ >>First
+ >>and
+ >>second
+ >>examples
  
   
  ---
