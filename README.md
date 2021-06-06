@@ -8,7 +8,7 @@ Main commands of this language
 * `Shaded Word`     // Use \`Word`
 
  You can also mix up these characteristics whatever you want
- ---   
+  ---   
  ( Use \--- to separate in areas as showed above)
 
 # Use \# to insert the First Title
