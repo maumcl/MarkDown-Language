@@ -8,7 +8,8 @@ Main commands of this language
 * `Shaded Word`     // Use \`Word`
 
  You can also mix up these characteristics whatever you want
-  ---   
+ 
+ --- 
  ( Use \--- to separate in areas as showed above)
 
 # Use \# to insert the First Title
@@ -26,5 +27,4 @@ Main commands of this language
 
  ---
 :CodeEmoji: to insert an emoji
-Check it out this interesting [repository](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion) full of emojis put :smile:
-
+Check it out this interesting [repository](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion) full of emojis :smile:
