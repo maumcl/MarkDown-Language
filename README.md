@@ -10,9 +10,11 @@ Main commands of this language
 
 You can also mix up these characteristics whatever you want
 
-#Use \# to insert the First Title
-##Use \## to insert the Second Title
-###Use \### to insert the Third Title
+# Use \# to insert the First Title
+
+## Use \## to insert the Second Title
+
+### Use \### to insert the Third Title
 
 * `Shaded Word`     // Use \`Word`
 
