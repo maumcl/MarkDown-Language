@@ -25,6 +25,14 @@ Main commands of this language
  text   (Use ``` Text in Paragraph....```)
  here
  ```
+ 
+ ---
+ * Creating tasks list
+ - [x] First step:   Use \- [x]
+ - [] Second step:   Use \- []
+ 
+ 
+ 
 
  ---
 :CodeEmoji: to insert an emoji
