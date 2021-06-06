@@ -10,7 +10,8 @@ Main commands of this language
  You can also mix up these characteristics whatever you want
  
  --- 
- ( Use \--- to separate in areas as showed above)
+ ( Use \--- to separate it in areas as showed above)
+
 
 # Use \# to insert the First Title
 
