@@ -32,6 +32,14 @@ Main commands of this language
  - [ ] Second step:   Use \- [ ]
  
   
+  ---
+ Creating demarcated list:
+ *List 1
+ *List 2
+  *Test
+ *List 3
+ 
+  
  ---
 Inserting Links:
 
