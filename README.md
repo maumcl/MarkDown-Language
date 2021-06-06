@@ -8,7 +8,7 @@ Main commands of this language
 * _Italic Letter_           // Use either \_Word_ or \*Word*
 * ~~Strikethrough Letter~~  //  Use \~~Word~~
 
-You can also mix up there characteristics whatever you want
+You can also mix up these characteristics whatever you want
 
 * Use \_#_ to insert the First Title
 * Use \_##_ to insert the Second Title
