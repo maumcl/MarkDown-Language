@@ -30,8 +30,9 @@ Main commands of this language
  Creating tasks list:
  - [x] First step:   Use \- [x]
  - [ ] Second step:   Use \- [ ]
-  
  
+  
+ ---
 Inserting Links:
 
 [Meu GitHub](www.github.com/maumcl) -- \[Name Chosen](url link)
