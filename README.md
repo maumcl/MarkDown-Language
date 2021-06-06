@@ -29,9 +29,8 @@ Main commands of this language
  ---
  Creating tasks list:
  - [x] First step:   Use \- [x]
- - [ ] 6
- - [] Second step:   Use \- []
- 
+ - [ ] Second step:   Use \- [ ]
+  
  
 Inserting Links:
 
