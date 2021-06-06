@@ -32,7 +32,8 @@ Main commands of this language
  - [] Second step:   Use \- []
  
  
- 
+Inserting Links:
+[Meu GitHub](www.github.com/maumcl) - \[Name Chosen](url link)
 
  ---
 :CodeEmoji: to insert an emoji
