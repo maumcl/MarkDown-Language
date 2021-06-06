@@ -59,4 +59,4 @@ Check it out this interesting [repository](https://github.com/ikatyang/emoji-che
 ---
 Inserting symbols in the message
 
-You can simply use \ in front of your code when typing 
+You can simply use \ in front of your code( # * _ etc ) when typing 
