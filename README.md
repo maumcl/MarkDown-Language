@@ -33,14 +33,19 @@ Main commands of this language
  
   
   ---
-Create Spreadsheet 
+Create Spreadsheet:
 
 Num | Name | Grade 
 ---|---|--- 
 1|Mauricio|8,5 
 2|Joseph|9,0 
 
-End of spreadsheet 
+```
+Num | Name | Grade 
+---|---|--- 
+1|Mauricio|8,5 
+2|Joseph|9,0 
+```
    
  ---
 Inserting Links:
