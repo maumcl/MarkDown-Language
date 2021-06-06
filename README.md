@@ -23,10 +23,10 @@ You can also mix up these characteristics whatever you want
  ```
  
   ---   
- ( \_---_ Separate in areas)
+ ( Use \--- to separate in areas as showed above)
 
--- 
-( \_--_ Divider)
+ -- 
+( \-- Divider)
 
  --
 :CodeEmoji: to insert an emoji
