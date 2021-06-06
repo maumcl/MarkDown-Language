@@ -4,7 +4,7 @@ Main commands of this language
 
 ### LET'S GET STARTED
 
-* __Bold Letter__           // Use either \___Word___\ or \***Word***\
+* __Bold Letter__           // Use either \__Word__\ or \***Word***\
 * _Italic Letter_           // Use either \__Word__\ or \**Word**\
 * ~~Strikethrough Letter~~  //  Use \~~Word~~\
 
