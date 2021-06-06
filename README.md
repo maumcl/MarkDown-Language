@@ -1,10 +1,10 @@
-# MARKDOWN
+# MARKDOWN LANGUAGE
 
 Main commands of this language
 
-### TOPICS
+### LET'S GET STARTED
 
-* `git init`     // Start the timeline
+* __Bold Letter__  // Use either \__Word__/ or \**Word**\
 * `git add`      // Add or refresh changes to insert in the timelime
 * ` git branch -m master main` // Rename the local _master_ to _main_
 * `git commit -m "add description"`   // Add a step in the timeline
