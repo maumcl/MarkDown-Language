@@ -33,13 +33,18 @@ Main commands of this language
  
   
   ---
- Inserting Quotes:
- >>First
- and
- second
- examples
- 
-  
+Create Spreadsheet 
+
+Num | Name | Grade 
+
+---|---|--- 
+
+1 | Mauricio | 8,5 
+
+2 | Joseph | 9,0 
+
+End of spreadsheet 
+   
  ---
 Inserting Links:
 
