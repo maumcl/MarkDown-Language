@@ -13,13 +13,8 @@ You can also mix up these characteristics whatever you want
 * Use \# to insert the First Title
 * Use \## to insert the Second Title
 * Use \### to insert the Third Title
- ---   
- ( \_---_ Separate in areas)
 
--- 
-( \_--_ Divider)
-
-* `Shaded Word`     // Use \_`Word`_\
+* `Shaded Word`     // Use \`Word`
 
  ```
  Your
@@ -27,10 +22,11 @@ You can also mix up these characteristics whatever you want
  here
  ```
  
+  ---   
+ ( \_---_ Separate in areas)
+
+-- 
+( \_--_ Divider)
+ 
 * Put : to inser an emoji
 * Check it out this interesting [repository](https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion) full of emojis put :smile:
-* `git merge`    // Merge the timelines
-* `git push -u origin master`     // Send the local changes to the remote repository
-* `git clone`    // Clone a project / repository
-* `git pull`     // Pull from the remote repository to the local repository
-* `vim`          // Open an archive in the terminal
