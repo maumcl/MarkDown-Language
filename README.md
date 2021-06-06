@@ -10,12 +10,13 @@ Main commands of this language
 
 You can also mix up these characteristics whatever you want
 
-* Use \_#_ to insert the First Title
-* Use \_##_ to insert the Second Title
-* Use \_###_ to insert the Third Title
+* Use \# to insert the First Title
+* Use \## to insert the Second Title
+* Use \### to insert the Third Title
 ---   ( \_---_ Separate in areas)
 
--- ( \_--_ Divider)
+-- 
+( \_--_ Divider)
 
 * `Shaded Word`     // Use \_`Word`_\
 
