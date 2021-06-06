@@ -18,7 +18,7 @@ You can also mix up these characteristics whatever you want
 
  ```
  Your
- text   (Use ``` Text....```)
+ text   (Use ``` Text in Paragraph....```)
  here
  ```
  
