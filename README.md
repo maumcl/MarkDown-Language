@@ -6,16 +6,16 @@ Main commands of this language
 
 * __Bold Letter__           // Use either \_\_Word__ or \*\*Word**
 * _Italic Letter_           // Use either \_Word_ or \*Word*
-* ~~Strikethrough Letter~~  //  Use \~~Word~~\
+* ~~Strikethrough Letter~~  //  Use \~~Word~~
 
 You can also mix up there characteristics whatever you want
 
-* Use \_#_\ to insert the First Title
-* Use \_##_\ to insert the Second Title
-* Use \_###_\ to insert the Third Title
----   ( \_---_\ Separate in areas)
+* Use \_#_ to insert the First Title
+* Use \_##_ to insert the Second Title
+* Use \_###_ to insert the Third Title
+---   ( \_---_ Separate in areas)
 
--- ( \_--_\ Divider)
+-- ( \_--_ Divider)
 
 * `Shaded Word`     // Use \_`Word`_\
 
