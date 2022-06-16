@@ -27,7 +27,7 @@ Main commands of this language
  ```
   ---
  Enumerating rows:
-1. First item
+1. First item (as it is, just put the number before the row)
 2. Second item
 3. Third item
     1. Indented item
